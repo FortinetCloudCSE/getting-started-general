@@ -1,0 +1,10 @@
+REPOSITORY                                          TAG                    IMAGE ID       CREATED         SIZE
+rancher/klipper-lb                                  v0.4.4                 af74bd845c4a   2 months ago    12MB
+rancher/klipper-helm                                v0.8.0-build20230510   6f42df210d7f   3 months ago    262MB
+rancher/mirrored-library-traefik                    2.9.10                 d1e26b5f8193   4 months ago    138MB
+rancher/local-path-provisioner                      v0.0.24                b29384aeb4b1   4 months ago    40.1MB
+rancher/mirrored-metrics-server                     v0.6.3                 817bbe3f2e51   4 months ago    68.9MB
+rancher/mirrored-coredns-coredns                    1.10.1                 ead0a4a53df8   6 months ago    53.6MB
+rancher/mirrored-library-busybox                    1.34.1                 827365c7baf1   7 months ago    4.86MB
+rancher/mirrored-pause                              3.6                    6270bb605e12   24 months ago   683kB
+ghcr.io/rancher-sandbox/rancher-desktop/rdx-proxy   latest                 3e9d7c4baf05   292 years ago   5.1MB
