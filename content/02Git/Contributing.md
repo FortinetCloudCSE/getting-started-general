@@ -12,8 +12,13 @@ Atlassian also provides a series of very accessible tutorials here: [https://www
 
 ### Git branching
 
-### Pushing a change
+It is advisable to create a new branch in each repo to work with, distinct from the main branch. A suggested naming convention is **Feature-username-reponame", substituting in your Git username and the name of the repo for username and reponame, respectively. The following commands, when issued from within a local directory holding the repo, will create a new branch to work with:
 
-### Requesting a PR
+```shell
+git checkout -b Feature-username-reponame
+```
 
-### Merging into the main branch
+This enables one to work on the repo and test changes while maintaining the main branch in a consistent, working state. 
+
+For further details on Git Workflow guidelines, please see our workshop documentation [here](https://fortinetcloudcse.github.io/UserRepo/03chapter3/3_task2.html) and [here](https://fortinetcloudcse.github.io/UserRepo/03chapter3/gitflow.html).
+
